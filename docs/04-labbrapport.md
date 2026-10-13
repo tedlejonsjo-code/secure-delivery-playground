@@ -20,7 +20,7 @@ Beskriv kort vad labben gick ut på och vad du gjorde.
 ## 4. Dependency och supply chain
 
 - Vilket beroende eller simulerat alert analyserade du?
-- Vad var risken?
+- Vad var risken? 
 - Vad bör göras innan uppdatering accepteras?
 
 ## 5. Code scanning och AI-stöd

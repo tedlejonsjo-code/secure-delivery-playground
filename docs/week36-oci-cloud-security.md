@@ -20,7 +20,7 @@
 
 | uname -a |Visar operativsystemet du är på |CIA Koppling till tillgänglighet|
 
-| uptime |Hur länge servern har varit igång = 1 dag, 22 tim, 33 min vid dokumentation|CIA Koppling till tillgänglighet|
+| uptime |Hur länge servern har varit igång = 1 dag, 22 timmar, 33 min vid dokumentation|CIA Koppling till tillgänglighet|
 
 |id|Visar användar grupp och numeriska id. I detta fall är vårat user ID (ubuntu)=1001, Grupp nummer 1001 och våra icke primära gruppnummer 1001.|CIA Koppling till konfidentalitet|
 
